@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/saymuC/Automocao-salesforce-releases/releases/download/v1.1.0/main.exe",
-  "sha256": "143c635989e08bae4e7f78609cc7c24bb6bbdaf097711d1d02c86fbee9517e6f",
-  "notes": "Atualizacao inicial com verificador de hash."
+  "version": "1.1.1",
+  "url": "https://github.com/saymuC/Automocao-salesforce-releases/releases/download/v1.1.1/main.exe",
+  "sha256": "D39E5CF304D4A23F16ECDD47D88D63721F192FC2F529EEDD68262CB5E8EE04F6",
+  "notes": "Cliente agora envia dados à API remota via fila resiliente, health checks e formatos BR novos."
 }
