@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/saymuC/Automocao-salesforce-releases/releases/download/v1.1.1/main.exe",
-  "sha256": "D39E5CF304D4A23F16ECDD47D88D63721F192FC2F529EEDD68262CB5E8EE04F6",
-  "notes": "Cliente agora envia dados à API remota via fila resiliente, health checks e formatos BR novos."
+  "version": "1.1.2",
+  "url": "https://github.com/saymuC/Automocao-salesforce-releases/releases/download/v1.1.2/main.exe",
+  "sha256": "7F855811473C199C3E6F3272F9357A11C4BFEC3EB57D7B05C040BE60E30597D7",
+  "notes": "O .exe vai junto com o .env"
 }
