@@ -1,6 +1,6 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.3",
   "url": "https://github.com/saymuC/Automocao-salesforce-releases/releases/download/v1.1.2/main.exe",
-  "sha256": "7F855811473C199C3E6F3272F9357A11C4BFEC3EB57D7B05C040BE60E30597D7",
+  "sha256": "B3F09FA25073F5F6D833CDCCA4647E85799C044C333E9824AB146C69BF887FBD",
   "notes": "O .exe vai junto com o .env"
 }
