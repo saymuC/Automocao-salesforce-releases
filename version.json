@@ -1,6 +1,6 @@
 {
-  "version": "1.1.3",
-  "url": "https://github.com/saymuC/Automocao-salesforce-releases/releases/download/v1.1.3/main.exe",
-  "sha256": "B3F09FA25073F5F6D833CDCCA4647E85799C044C333E9824AB146C69BF887FBD",
-  "notes": "O .exe vai junto com o .env"
+  "version": "1.1.4",
+  "url": "https://github.com/saymuC/Automocao-salesforce-releases/releases/download/v1.1.4/main.exe",
+  "sha256": "B4B579E133BFC339D26D901553B07DB4E7D8C07DF49BB48ADE796984BC3FF62A",
+  "notes": "Adicionado tela de verificação de atualização."
 }
