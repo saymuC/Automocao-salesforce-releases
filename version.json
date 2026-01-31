@@ -1,6 +1,6 @@
 {
-  "version": "1.1.5",
-  "url": "https://github.com/saymuC/Automocao-salesforce-releases/releases/download/v1.1.5/main.exe",
-  "sha256": "B569E112228126A61AC44EE66625FA9D56CE857AF060E4A3A1B58122FAEB196A",
-  "notes": "Melhorado o Layout da tela de verificação de versão."
+  "version": "1.1.6",
+  "url": "https://github.com/saymuC/Automocao-salesforce-releases/releases/download/v1.1.6/main.exe",
+  "sha256": "F306C9D826112ED95380352073E04AE973891363AF1D67F8E8D9E1BFD48EDC18",
+  "notes": "Adiocionado o motivo do contato Adiantar entrega/montagem em casos de CAC"
 }
